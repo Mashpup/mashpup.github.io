@@ -1357,20 +1357,32 @@ body {
 .cid-qtDjA9aF0w H2 {
   color: #767676;
 }
+.cid-qtDjA9aF0w SPAN {
+  color: #232323;
+}
 .cid-qts5d5ZzHM {
   padding-top: 105px;
   padding-bottom: 120px;
   background-image: url("../../../assets/images/2016-08-02mp-2000x1342.jpg");
 }
-.cid-qtDliJLKhK {
+.cid-qtDyN9iLwN {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #efefef, #ffffff);
+  background-color: #ffffff;
 }
-.cid-qtDliJLKhK .btn {
+.cid-qtDyN9iLwN .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qtDyN9iLwN .btn {
   margin: 0 0 .5rem 0;
 }
-.cid-qtDliJLKhK H2 {
+.cid-qtDyN9iLwN .mbr-section-subtitle B {
+  color: #232323;
+}
+.cid-qtDyN9iLwN H2 {
+  color: #767676;
+}
+.cid-qtDyN9iLwN SPAN {
   color: #232323;
 }
 .cid-qtrJewlDhW .navbar {
@@ -2676,7 +2688,7 @@ body {
 .cid-qtD0oSal2B {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/fond5.svg");
+  background-image: url("../../../assets/images/fond6.svg");
 }
 .cid-qtD0oSal2B .mbr-iconfont-social {
   font-size: 32px;
