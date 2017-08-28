@@ -1853,9 +1853,12 @@ body {
 }
 .cid-qtrYmYkIpB .mbr-section-title {
   text-align: left;
-  color: #5689f7;
+  color: #ffffff;
 }
 .cid-qtrYmYkIpB .mbr-section-title B {
+  color: #ffffff;
+}
+.cid-qtrYmYkIpB .mbr-section-title I {
   color: #ffffff;
 }
 .cid-qtCX5UVgck {
@@ -2673,7 +2676,7 @@ body {
 .cid-qtD0oSal2B {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/fond2.svg");
+  background-image: url("../../../assets/images/fond3.svg");
 }
 .cid-qtD0oSal2B .mbr-iconfont-social {
   font-size: 32px;
